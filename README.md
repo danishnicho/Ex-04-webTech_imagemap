@@ -19,6 +19,7 @@ Run the Django server and execute the HTML files.
 # Code:
 
 map.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -44,8 +45,9 @@ map.html
 </body>
 </html>
 
-
+```
 bus.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -77,8 +79,9 @@ Keelapazhur to preserve and conserve fossils. Ariyalur is noted for its cement
 </p>
 </body>
 </html>
-
+```
 park.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -105,8 +108,9 @@ Simple and relax with play area.
 </p>
 </body>
 </html>
-
+```
 rto.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -131,8 +135,9 @@ RTOs are also responsible for improving road and vehicle safety, especially to a
 </p>
 </body>
 </html>
-
+```
 ghs.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -159,8 +164,9 @@ The main objectives of Ariyalur Government Higher Secondary School are
 </p>
 </body>
 </html>
-
+```
 vk.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -188,7 +194,7 @@ The uses of Washerman's Lake in Ariyalur District are
 </body>
 </html>
 
-
+```
 
 
 # Output:
